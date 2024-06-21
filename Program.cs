@@ -12,6 +12,7 @@ ordenRequest datosOrdenRequest = new ordenRequest(ordenCollection);
 //obtener una orden especifica
 //datosOrdenRequest.commercial_id = "OMAR123123";
 //mostrarOrden(datosOrdenRequest);
+//demo
 
 
 //obtener todas las ordenes
